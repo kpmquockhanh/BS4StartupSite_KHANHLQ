@@ -46,6 +46,14 @@ body{
 #feature-four .feature-content{
     padding: 0px;
 }
+#feature-five .feature-content{
+    padding: 0px;
+    padding-top: 8rem;
+}
+#feature-three .feature-content{
+    padding: 0px;
+    padding-top: 8rem;
+}
 #feature-six .feature-content{
     padding-top: 8rem;
 }
