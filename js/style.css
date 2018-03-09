@@ -1,0 +1,12 @@
+body{
+	height: 100%;
+}
+#cover{
+	background: #222 url('../img/stars-feature-1.jpg') center center no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100vw;
+	text-align: center;
+	display: flex;
+	align-items: center;
+}

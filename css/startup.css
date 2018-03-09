@@ -1,0 +1,66 @@
+html{
+	height: 100%;
+}
+body{
+	height: 100%;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    color: #6c6c6c;
+}
+#StartupNavbar{
+    /*position: absolute;*/
+    /*right: 10px;*/
+}
+#stage{
+    background: url('../img/stage.jpg') center center no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    color: white;
+}   
+#stage-caption{
+    font-size: 1.4rem;
+    font-weight: 200;
+    max-width: 60rem;
+    margin: 0 auto;
+    text-align: center;
+}
+.feature-content{
+    padding: 8rem 0;
+}
+.feature-dark{
+    background: #333;
+    color: white;
+    height: 100%;
+    overflow: hidden;
+}
+.feature-content img{
+    width: 100%;
+    /*background-color: red;*/
+}
+.feature-alt{
+    background-color: #f0f0f0;
+}
+#feature-four .feature-content{
+    padding: 0px;
+}
+#feature-six .feature-content{
+    padding-top: 8rem;
+}
+#feature-six.feature-dark{
+    height: 70%;
+}
+#main-footer{
+    background: #262F36;
+    color: white;
+    padding: 6rem 0;
+    font-size: 0.8rem;
+}
+#main-footer h6{
+    color: #718FA9;
+}
+#main-footer h6{
+    color: #6c5f73;
+}
